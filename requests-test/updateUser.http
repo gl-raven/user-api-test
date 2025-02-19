@@ -1,0 +1,6 @@
+PUT http://localhost:10000/user/1 HTTP/1.1
+content-type: application/json
+
+{
+    "email" : "wer111@qwe1.ru"
+}
